@@ -78,3 +78,13 @@ php artisan migrate
 ```
 php artisan db:seed --class=XXXX
 ```
+
+## 額外安裝套件
+
+### 全部環境
+
+### 測試環境
+1. 文件生成器：
+    ```bash
+    composer require --dev knuckleswtf/scribe
+    ```
