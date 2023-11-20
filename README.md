@@ -88,3 +88,7 @@ php artisan db:seed --class=XXXX
     ```bash
     composer require --dev knuckleswtf/scribe
     ```
+    生成設定檔：
+    ```bash
+    php artisan vendor:publish --tag=scribe-config
+    ```
