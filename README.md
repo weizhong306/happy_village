@@ -3,7 +3,7 @@
 ## 環境
 * PHP 8.2 
 * MySQL 8.2
-* test
+* test2
 
 ## 初始化設定
 
